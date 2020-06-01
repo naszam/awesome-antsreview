@@ -8,12 +8,21 @@
 
 ## Table of Contents
 
-## Officials
-
 - [Channels](#channels) 
+
+- [Articles](#articles)
+
+- Hackathons](#hackathon)
 
 Channels
 ========
 - [Twitter](https://twitter.com/ants_review)
 - [GitHub](https://github.com/naszam/ants-review)
 
+Articles
+========
+- [Quadrating Voting: Ending the tyranny](https://ipfs.leapdao.org/blog/quadratic-voting)
+
+Hackathon
+=========
+- [ETHTurni](https://ethturin.com/hacks)
