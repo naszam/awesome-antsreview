@@ -12,7 +12,7 @@
 - [Hackathons](#hackathons)
 - [Videos](#videos)
 - [Articles](#articles)
-- [Workshops]()
+- [Zenodo]()
 - [Papers](#papers)
 - [License](#license)
 
@@ -29,6 +29,11 @@
 ## Articles
 - [Quadrating Voting: Ending the tyranny](https://ipfs.leapdao.org/blog/quadratic-voting)
 
+## Zenodo
+- [White Paper](https://zenodo.org/record/3828087#.XtVYjDdKg5k)
+- [Presentation](https://zenodo.org/record/3828067#.XtVYojdKg5k)
+- [Smart Contracts](https://zenodo.org/record/3829162#.XtVYszdKg5k)
+- [Demo](https://zenodo.org/record/3829183#.XtVY0TdKg5k)
 ## Papers
 
 ## License
