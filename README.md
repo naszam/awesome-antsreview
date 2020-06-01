@@ -3,9 +3,16 @@
 
 ## Table of Contents
 
-### Channels
+## Officials
+
+- [Channels](#channels) 
+- [Smart Contracts](#smart-contracts)
+
+Channels
+========
 - [Twitter](https://twitter.com/ants_review)
 
-### Smart Contracts
+Smart Contracts
+===============
 - [antsreview](https://github.com/naszam/ants-review)
 
