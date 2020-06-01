@@ -12,6 +12,7 @@
 - [Articles](#articles)
 - [Hackathons](#hackathon)
 - [Workshop]()
+- [Paper](#paper)
 
 Channels
 ========
@@ -25,3 +26,6 @@ Articles
 Hackathon
 =========
 - [ETHTurin](https://ethturin.com/hacks)
+
+Papers
+======
