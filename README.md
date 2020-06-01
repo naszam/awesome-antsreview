@@ -12,7 +12,7 @@
 
 - [Articles](#articles)
 
-- Hackathons](#hackathon)
+- [Hackathons](#hackathon)
 
 Channels
 ========
