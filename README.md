@@ -10,9 +10,9 @@
 
 - [Channels](#channels) 
 - [Articles](#articles)
-- [Hackathons](#hackathon)
-- [Workshop]()
-- [Paper](#paper)
+- [Hackathons](#hackathons)
+- [Workshops]()
+- [Papers](#papers)
 
 Channels
 ========
@@ -23,7 +23,7 @@ Articles
 ========
 - [Quadrating Voting: Ending the tyranny](https://ipfs.leapdao.org/blog/quadratic-voting)
 
-Hackathon
+Hackathons
 =========
 - [ETHTurin](https://ethturin.com/hacks)
 
