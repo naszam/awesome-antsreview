@@ -9,8 +9,9 @@
 ## Table of Contents
 
 - [Channels](#channels) 
-- [Articles](#articles)
 - [Hackathons](#hackathons)
+- [Videos](#videos)
+- [Articles](#articles)
 - [Workshops]()
 - [Papers](#papers)
 
@@ -19,13 +20,17 @@ Channels
 - [Twitter](https://twitter.com/ants_review)
 - [GitHub](https://github.com/naszam/ants-review)
 
-Articles
-========
-- [Quadrating Voting: Ending the tyranny](https://ipfs.leapdao.org/blog/quadratic-voting)
-
 Hackathons
 =========
 - [ETHTurin](https://ethturin.com/hacks)
+
+Videos
+======
+- [ETHTurin Demo](https://www.youtube.com/watch?v=9FMsM5otQVM&feature=youtu.be)
+
+Articles
+========
+- [Quadrating Voting: Ending the tyranny](https://ipfs.leapdao.org/blog/quadratic-voting)
 
 Papers
 ======
