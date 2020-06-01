@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/made%20by-Ants%20Labs-orange.svg?style=flat-square)]()
 [![](https://img.shields.io/badge/project-AntsReview-orange.svg?style=flat-square)]()
 
-> Awesome Ants-Review is a community driven project, designed to be a resource people can use to familiarize themselves with Ant and Ants-Review.
+> Useful resources to use Ants-Review
  
 
 ## Table of Contents
