@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/made%20by-Ants%20Labs-orange.svg?style=flat-square)]()
 [![](https://img.shields.io/badge/project-AntsReview-orange.svg?style=flat-square)]()
 
-> Useful resources to use and familiarize with Ants-Review and Ant
+> Useful resources and references to use and familiarize with Ants-Review and Ant
  
 
 ## Table of Contents
