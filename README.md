@@ -25,4 +25,4 @@ Articles
 
 Hackathon
 =========
-- [ETHTurni](https://ethturin.com/hacks)
+- [ETHTurin](https://ethturin.com/hacks)
