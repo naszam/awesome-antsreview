@@ -14,23 +14,22 @@
 - [Articles](#articles)
 - [Workshops]()
 - [Papers](#papers)
+- [License](#license)
 
-Channels
-========
+## Channels
 - [Twitter](https://twitter.com/ants_review)
 - [GitHub](https://github.com/naszam/ants-review)
 
-Hackathons
-=========
+## Hackathons
 - [ETHTurin](https://ethturin.com/hacks)
 
-Videos
-======
+## Videos
 - [ETHTurin Demo](https://www.youtube.com/watch?v=9FMsM5otQVM&feature=youtu.be)
 
-Articles
-========
+## Articles
 - [Quadrating Voting: Ending the tyranny](https://ipfs.leapdao.org/blog/quadratic-voting)
 
-Papers
-======
+## Papers
+
+## License
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
