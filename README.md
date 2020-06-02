@@ -52,6 +52,7 @@
 - [IPFS: Content Addressed, Versioned, P2P File System (DRAFT 3](https://github.com/ipfs/ipfs/blob/master/papers/ipfs-cap2pfs/ipfs-p2p-file-system.pdf)  
 - [Noninteractive Zero-Knoledge](https://people.csail.mit.edu/silvio/Selected%20Scientific%20Papers/Zero%20Knowledge/Noninteractive_Zero-Knowkedge.pdf)  
 - [zk-SNARKs in a Nutshell](https://chriseth.github.io/notes/articles/zksnarks/zksnarks.pdf)  
+- [What are zk-SNARKs?](https://z.cash/technology/zksnarks/)  
 - [The Aztec Protocol](https://drive.google.com/file/d/1d9UoSDBmi4VWdicA_2wNinxLQtsyLyZM/view)  
 - [Plonk: Permutations over Lagrange-bases for Oecumenical Noninteractive arguments of Knowledge](https://drive.google.com/file/d/1jd5LJ8MX0D4e7q1X4gG0vdyNA9Rx_cef/view)  
 - [Understanding PLONK by Vitalik](https://vitalik.ca/general/2019/09/22/plonk.html)  
