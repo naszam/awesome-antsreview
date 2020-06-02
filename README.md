@@ -60,6 +60,7 @@
 - [Ethereum 9¾: Send ERC20 privately using Mimblewimble and zk-SNARKs](https://ethresear.ch/t/ethereum-9-send-erc20-privately-using-mimblewimble-and-zk-snarks/6217)  
 - [MimbleWimble Origin](https://github.com/mimblewimble/docs/wiki/MimbleWimble-Origin)  
 - [A Brief History of MimbleWimble White Paper](https://github.com/mimblewimble/docs/wiki/A-Brief-History-of-MimbleWimble-White-Paper)  
+- [DAOs, DACs, DAs and More: An Incomplete Terminology Guide](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)  
 - [The Maker Protocol: MakerDAO's Multi-Collateral Dai (MCD) System](https://makerdao.com/en/whitepaper/)  
 - [Chai](https://chai.money/about.html)  
 
