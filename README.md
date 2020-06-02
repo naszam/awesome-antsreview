@@ -39,6 +39,7 @@
 
 ## References
 - [Bitcoin: A Peer To Peer Electronic Cash System](https://drive.google.com/file/d/1LzRKfWwamolbf4haCzu3Pcyztf00DBVH/view)  
+- [Smart Contracts by Nick Szabo](https://drive.google.com/file/d/1fQpwlpWToDyBMyBhZDobS29Szn4xpXeH/view)  
 - [Ethereum: A Next Generation Smart Contract and Decentralized Application Platform](https://github.com/ethereum/wiki/wiki/White-Paper)  
 - [Ethereum: A Secure Decentralised Generalised Transaction Ledger](https://ethereum.github.io/yellowpaper/paper.pdf)  
 - [OSCOIN: Trust and Sustainability in Open Source Communities](http://oscoin.io/oscoin.pdf)  
@@ -48,6 +49,13 @@
 - [Liberal Radicalism: A Flexible Design For Philantrophic Matching Funds](https://drive.google.com/file/d/1A2B7OH78e20nM9m1tNJSlCfoy1QFnCbB/view)  
 - [Review of Gitcoin Quadratic Funding Round 4](https://vitalik.ca/general/2020/01/28/round4.html)  
 - [Blockchain Code as Antitrust](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3597399)  
+- [IPFS: Content Addressed, Versioned, P2P File System (DRAFT 3](https://github.com/ipfs/ipfs/blob/master/papers/ipfs-cap2pfs/ipfs-p2p-file-system.pdf)  
+- [Noninteractive Zero-Knoledge](https://people.csail.mit.edu/silvio/Selected%20Scientific%20Papers/Zero%20Knowledge/Noninteractive_Zero-Knowkedge.pdf)  
+- [zk-SNARKs in a Nutshell](https://chriseth.github.io/notes/articles/zksnarks/zksnarks.pdf)  
+- [The Aztec Protocol](https://drive.google.com/file/d/1d9UoSDBmi4VWdicA_2wNinxLQtsyLyZM/view)  
+- [Plonk: Permutations over Lagrange-bases for Oecumenical Noninteractive arguments of Knowledge](https://drive.google.com/file/d/1jd5LJ8MX0D4e7q1X4gG0vdyNA9Rx_cef/view)  
+- [Understanding PLONK](https://vitalik.ca/general/2019/09/22/plonk.html)  
+- [Proposal: The Turbo-PLONK program syntax for specifying SNARK programs](https://docs.zkproof.org/pages/standards/accepted-workshop3/proposal-turbo_plonk.pdf)  
 
 
 ## License
