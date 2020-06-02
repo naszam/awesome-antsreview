@@ -44,7 +44,8 @@
 - [Quadratic Payments: A Primer](https://vitalik.ca/general/2019/12/07/quadratic.html)  
 - [Liberal Radicalism: A Flexible Design For Philantrophic Matching Funds](https://drive.google.com/file/d/1A2B7OH78e20nM9m1tNJSlCfoy1QFnCbB/view)  
 - [Review of Gitcoin Quadratic Funding Round 4](https://vitalik.ca/general/2020/01/28/round4.html)  
-- [
+- [Blockchain Code as Antitrust](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3597399)  
+
 
 ## License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
