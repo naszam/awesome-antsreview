@@ -57,6 +57,8 @@
 - [Plonk: Permutations over Lagrange-bases for Oecumenical Noninteractive arguments of Knowledge](https://drive.google.com/file/d/1jd5LJ8MX0D4e7q1X4gG0vdyNA9Rx_cef/view)  
 - [Understanding PLONK by Vitalik](https://vitalik.ca/general/2019/09/22/plonk.html)  
 - [Proposal: The Turbo-PLONK program syntax for specifying SNARK programs](https://docs.zkproof.org/pages/standards/accepted-workshop3/proposal-turbo_plonk.pdf)  
+- [Ethereum 9¾: Send ERC20 privately using Mimblewimble and zk-SNARKs](https://ethresear.ch/t/ethereum-9-send-erc20-privately-using-mimblewimble-and-zk-snarks/6217)  
+- [The Maker Protocol: MakerDAO's Multi-Collateral Dai (MCD) System](https://makerdao.com/en/whitepaper/)  
 
 
 ## License
