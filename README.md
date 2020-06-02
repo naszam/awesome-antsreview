@@ -14,6 +14,7 @@
 - [Articles](#articles)
 - [Zenodo]()
 - [Papers](#papers)
+- [References](#references)
 - [License](#license)
 
 ## Channels
@@ -35,6 +36,15 @@
 - [Smart Contracts](https://zenodo.org/record/3829162#.XtVYszdKg5k)
 - [Demo](https://zenodo.org/record/3829183#.XtVY0TdKg5k)
 ## Papers
+
+## References
+- [OSCOIN: Trust and Sustainability in Open Source Communities](http://oscoin.io/oscoin.pdf)  
+- [Towards Open Science: The Case for a Decentralized Autonomous Academic Endorsement System](https://zenodo.org/record/60054#.XtYmOzdKg5l)  
+- [ScienceMiles: Digital Currency for Researcher](https://drive.google.com/file/d/1pcxq2-afAvT0ye6Z6Gu38vWbC3JyZQMF/view)  
+- [Quadratic Payments: A Primer](https://vitalik.ca/general/2019/12/07/quadratic.html)  
+- [Liberal Radicalism: A Flexible Design For Philantrophic Matching Funds](https://drive.google.com/file/d/1A2B7OH78e20nM9m1tNJSlCfoy1QFnCbB/view)  
+- [Review of Gitcoin Quadratic Funding Round 4](https://vitalik.ca/general/2020/01/28/round4.html)  
+- [
 
 ## License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
