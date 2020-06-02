@@ -54,7 +54,7 @@
 - [zk-SNARKs in a Nutshell](https://chriseth.github.io/notes/articles/zksnarks/zksnarks.pdf)  
 - [The Aztec Protocol](https://drive.google.com/file/d/1d9UoSDBmi4VWdicA_2wNinxLQtsyLyZM/view)  
 - [Plonk: Permutations over Lagrange-bases for Oecumenical Noninteractive arguments of Knowledge](https://drive.google.com/file/d/1jd5LJ8MX0D4e7q1X4gG0vdyNA9Rx_cef/view)  
-- [Understanding PLONK](https://vitalik.ca/general/2019/09/22/plonk.html)  
+- [Understanding PLONK by Vitalik](https://vitalik.ca/general/2019/09/22/plonk.html)  
 - [Proposal: The Turbo-PLONK program syntax for specifying SNARK programs](https://docs.zkproof.org/pages/standards/accepted-workshop3/proposal-turbo_plonk.pdf)  
 
 
