@@ -58,8 +58,10 @@
 - [Understanding PLONK by Vitalik](https://vitalik.ca/general/2019/09/22/plonk.html)  
 - [Proposal: The Turbo-PLONK program syntax for specifying SNARK programs](https://docs.zkproof.org/pages/standards/accepted-workshop3/proposal-turbo_plonk.pdf)  
 - [Ethereum 9¾: Send ERC20 privately using Mimblewimble and zk-SNARKs](https://ethresear.ch/t/ethereum-9-send-erc20-privately-using-mimblewimble-and-zk-snarks/6217)  
+- [MimbleWimble Origin](https://github.com/mimblewimble/docs/wiki/MimbleWimble-Origin)  
+- [A Brief History of MimbleWimble White Paper](https://github.com/mimblewimble/docs/wiki/A-Brief-History-of-MimbleWimble-White-Paper)  
 - [The Maker Protocol: MakerDAO's Multi-Collateral Dai (MCD) System](https://makerdao.com/en/whitepaper/)  
-
+- [Chai](https://chai.money/about.html)  
 
 ## License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
