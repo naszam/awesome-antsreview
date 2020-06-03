@@ -38,6 +38,9 @@
 ## Papers
 
 ## References
+- [How to time-stamp a digital document](https://link.springer.com/article/10.1007/BF00196791)  
+- [Improving the Efficiency and Reliability of Digital Time-Stamping](https://www.math.columbia.edu/~bayer/papers/Timestamp_BHS93.pdf)  
+- [Secure Names for Bit-Strings](https://nakamotoinstitute.org/static/docs/secure-names-bit-strings.pdf)  
 - [Bitcoin: A Peer To Peer Electronic Cash System](https://drive.google.com/file/d/1LzRKfWwamolbf4haCzu3Pcyztf00DBVH/view)  
 - [Smart Contracts by Nick Szabo](https://drive.google.com/file/d/1fQpwlpWToDyBMyBhZDobS29Szn4xpXeH/view)  
 - [Ethereum: A Next Generation Smart Contract and Decentralized Application Platform](https://github.com/ethereum/wiki/wiki/White-Paper)  
