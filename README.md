@@ -43,7 +43,7 @@
 - [Secure Names for Bit-Strings](https://nakamotoinstitute.org/static/docs/secure-names-bit-strings.pdf)  
 - [Bitcoin: A Peer To Peer Electronic Cash System](https://drive.google.com/file/d/1LzRKfWwamolbf4haCzu3Pcyztf00DBVH/view)  
 - [Smart Contracts by Nick Szabo](https://drive.google.com/file/d/1fQpwlpWToDyBMyBhZDobS29Szn4xpXeH/view)  
-- [Ethereum: A Next Generation Smart Contract and Decentralized Application Platform](https://github.com/ethereum/wiki/wiki/White-Paper)  
+- [Ethereum: A Next Generation Smart Contract and Decentralized Application Platform](https://ethereum.org/whitepaper/)  
 - [Ethereum: A Secure Decentralised Generalised Transaction Ledger](https://ethereum.github.io/yellowpaper/paper.pdf)  
 - [OSCOIN: Trust and Sustainability in Open Source Communities](http://oscoin.io/oscoin.pdf)  
 - [Towards Open Science: The Case for a Decentralized Autonomous Academic Endorsement System](https://zenodo.org/record/60054#.XtYmOzdKg5l)  
