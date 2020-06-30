@@ -18,7 +18,7 @@
 - [License](#license)
 
 ## Channels
-- [Twitter](https://twitter.com/ants_review)
+- [Twitter](https://twitter.com/AntsReview)
 - [GitHub](https://github.com/naszam/ants-review)
 
 ## Hackathons
