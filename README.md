@@ -20,6 +20,7 @@
 ## Channels
 - [Twitter](https://twitter.com/AntsReview)
 - [GitHub](https://github.com/naszam/ants-review)
+- [Telegram](https://t.me/AntsReview)
 
 ## Hackathons
 - [ETHTurin](https://ethturin.com/hacks)
