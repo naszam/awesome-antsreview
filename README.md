@@ -49,7 +49,7 @@
 - [OSCOIN: Trust and Sustainability in Open Source Communities](http://oscoin.io/oscoin.pdf)  
 - [Towards Open Science: The Case for a Decentralized Autonomous Academic Endorsement System](https://zenodo.org/record/60054#.XtYmOzdKg5l)  
 - [ScienceMiles: Digital Currency for Researcher](https://drive.google.com/file/d/1pcxq2-afAvT0ye6Z6Gu38vWbC3JyZQMF/view)  
-- [Bounties Network](https://github.com/Bounties-Network/StandardBounties)
+- [Bounties Network](https://bounties.network/)
 - [Quadratic Payments: A Primer](https://vitalik.ca/general/2019/12/07/quadratic.html)  
 - [Liberal Radicalism: A Flexible Design For Philantrophic Matching Funds](https://drive.google.com/file/d/1A2B7OH78e20nM9m1tNJSlCfoy1QFnCbB/view)  
 - [Review of Gitcoin Quadratic Funding Round 4](https://vitalik.ca/general/2020/01/28/round4.html)  
