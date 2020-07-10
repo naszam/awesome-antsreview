@@ -23,7 +23,7 @@
 - [Telegram](https://t.me/AntsReview)
 
 ## Hackathons
-- [ETHTurin](https://ethturin.com/hacks)
+- [ETHTurin](https://ethlocal.co/ethturin/hacks)
 
 ## Videos
 - [ETHTurin Demo](https://www.youtube.com/watch?v=9FMsM5otQVM&feature=youtu.be)
